@@ -13,13 +13,12 @@
 <body>
     <div class="container">
         <h1>Password Generator</h1>
-        <h2 class="password-shown">Password</h2>
+        <h2 id="password" class="password-shown">Password</h2>
+        
     <form class="form">
         <label for="amountForCharacters">Number of Characters</label>
-    <div>
         <input type="number" min="8" max="128"
-        id="amountForCharacters">
-    </div>
+        id="amountForCharacters" required>
 
     <label for="chooseUppercase">Choose Uppercase</label>
     <input type="checkbox" id="chooseUppercase">
