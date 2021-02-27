@@ -6,3 +6,7 @@ Within the html I structured everything to be as neat as possible and able to re
 Moving onto the css it took me a while to get what I truly wanted, such as colors and font sizes, along with many more details. However, after I went through various selections, I was able to find and use everything that I wanted to design the webpage and randoom password generator to my liking. The css was something I enjoyed working on the most, it allowed me to create the random password generator the way I wanted with the designing aspect, I personally feel people who would use it would enjoy the work put into the css aspect as well.
 
 The javascript was the hardest section for me to work on due to getting the entire program to work properly, however once I started getting the program to work more of the script came naturally and slowly started making more sense as I progressed forward. 
+
+Link to github: https://aakash52297.github.io/Password-maker/.
+
+![The Password Generator application displays a red button to "Generate Password".](Assets/screencapture-file-Users-aakashsharma-Desktop-Password-maker-index-html-2021-02-27-09_54_00.png)
