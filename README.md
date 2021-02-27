@@ -7,6 +7,6 @@ Moving onto the css it took me a while to get what I truly wanted, such as color
 
 The javascript was the hardest section for me to work on due to getting the entire program to work properly, however once I started getting the program to work more of the script came naturally and slowly started making more sense as I progressed forward. 
 
-Link to github: https://aakash52297.github.io/Password-maker/
+Link: https://aakash52297.github.io/Password-maker/
 
 ![The Password Generator application displays a red button to "Generate Password".](Assets/screencapture-file-Users-aakashsharma-Desktop-Password-maker-index-html-2021-02-27-09_54_00.png)
